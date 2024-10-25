@@ -1,6 +1,7 @@
 ## Guitars' World
 Welcome to Guitars' World! This project is a beautifully crafted web page dedicated to the world of guitars, utilizing HTML, SCSS, Sass, and CSS for its design and layout. Whether you're a guitar enthusiast or just curious about these amazing instruments, this site provides a visually appealing experience.
-Preview((https://github.com/Yasin-Erkan/Guitars-World/blob/main/GuitarsWorld--gif.gif))
+
+##Preview((https://github.com/Yasin-Erkan/Guitars-World/blob/main/GuitarsWorld--gif.gif))
 
 1- Table of Contents
 2- Technologies Used
